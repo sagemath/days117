@@ -1,32 +1,32 @@
-prénom;nom;arrivée;départ
-Doriann;Albertin;6;9
-Felipe;Arbulú;5;10
-Bill;Allombert;5 or 6;7
-David;Ayotte;5;10 ou 11
-Sahar;Bashan;5;11
-Paul;Bastide;6 morning;10 afternoon
-Alex;Best;5;10 or 11
-Pierre;Bonnet;6;10
-Ariane;Carrance;5;10
-Xavier;Caruso;5 ou 6;10 ou 11
-Frédéric;Chapoton;5;10
-Vincent;Delecroix;5;10 ou 11
-Nicolas;Delbovier;5;10
-Charles;Fougeron;5;10
-Kai;Fu;6;10
-France;Gheeraert;5;11
-Éric;Gourgoulhon;5;9
-Haojie;Hong;6;10
-Sébastien;Labbé;5 or 6;10
-Clement;Legrand-Duchesne;6;10
-Antoine;Leudière;5;10
-Marc;Mezzarobba;6;10 ou 11
-Thierry;Monteil;?;?
-Joseph;Musleh;?;?
-Raphaël;Pages;6;10
-David;Roe;6 afternoon;10 or 11
-Julian;Rüth;6;10 or 11
-Elisa;Sasso;5;10
-Pierre;Stas;5;10
-Zoé;Varin;6;10
-Thibaut;Verron;5;10
+prénom,nom;arrivée;départ
+Doriann,Albertin;6;9
+Felipe,Arbulú;5;10
+Bill,Allombert;5 or 6;7
+David,Ayotte;5;10 ou 11
+Sahar,Bashan;5;11
+Paul,Bastide;6 morning;10 afternoon
+Alex,Best;5;10 or 11
+Pierre,Bonnet;6;10
+Ariane,Carrance;5;10
+Xavier,Caruso;5 ou 6;10 ou 11
+Frédéric,Chapoton;5;10
+Vincent,Delecroix;5;10 ou 11
+Nicolas,Delbovier;5;10
+Charles,Fougeron;5;10
+Kai,Fu;6;10
+France,Gheeraert;5;11
+Éric,Gourgoulhon;5;9
+Haojie,Hong;6;10
+Sébastien,Labbé;5 or 6;10
+Clement,Legrand-Duchesne;6;10
+Antoine,Leudière;5;10
+Marc,Mezzarobba;6;10 ou 11
+Thierry,Monteil;?;?
+Joseph,Musleh;?;?
+Raphaël,Pages;6;10
+David,Roe;6 afternoon;10 or 11
+Julian,Rüth;6;10 or 11
+Elisa,Sasso;5;10
+Pierre,Stas;5;10
+Zoé,Varin;6;10
+Thibaut,Verron;5;10
