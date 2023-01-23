@@ -1,32 +1,32 @@
-prénom,nom,arrivée,départ
-Doriann,Albertin,6,9
-Felipe,Arbulú,5 afternoon,10 afternoon
-Bill,Allombert,5 or 6,7
-David,Ayotte,5,10 ou 11
-Sahar,Bashan,5 afternoon,10 afternoon
-Paul,Bastide,6 morning,10 afternoon
-Alex,Best,5 afternoon,11 morning
-Pierre,Bonnet,6,10
-Ariane,Carrance,5,10
-Xavier,Caruso,5 ou 6,10 ou 11
-Frédéric,Chapoton,5 afternoon,10 afternoon
-Vincent,Delecroix,5 afternoon,10 ou 11
-Nicolas,Delbovier,5,10
-Charles,Fougeron,5,10
-Kai,Fu,6,10
-France,Gheeraert,5,11
-Éric,Gourgoulhon,5 afternoon,9 morning
+prénom,nom,arrivée,départ,lieu
+Doriann,Albertin,6,9,gite
+Felipe,Arbulú,5 afternoon,10 afternoon,gite
+Bill,Allombert,5 or 6,7,maison
+David,Ayotte,5,10 ou 11,maison
+Sahar,Bashan,5 afternoon,10 afternoon,maison
+Paul,Bastide,6 morning,10 afternoon,gite
+Alex,Best,5 afternoon,11 morning,maison
+Pierre,Bonnet,6,10,gite
+Ariane,Carrance,5,10,maison
+Xavier,Caruso,5 afternoon,11 morning,maison
+Frédéric,Chapoton,5 afternoon,10 afternoon,gite
+Vincent,Delecroix,5 afternoon,11 morning,maison
+Nicolas,Delbovier,5,10,gite
+Charles,Fougeron,5,10,maison
+Kai,Fu,6,10,gite
+France,Gheeraert,5,11,maison
+Éric,Gourgoulhon,5 afternoon,9 morning,gite
 Haojie,Hong,6 morning,10 evening
-Sébastien,Labbé,5 or 6,10
-Clement,Legrand-Duchesne,6,10
-Antoine,Leudière,5,10
-Marc,Mezzarobba,6 afternoon,10 afternoon
-Thierry,Monteil,?,?
-Joseph,Musleh,5 afternoon,10 afternoon?
-Raphaël,Pages,6 morning,10 afternoon
-David,Roe,6 afternoon,10 or 11
-Julian,Rüth,6,10 or 11
-Elisa,Sasso,5,10
-Pierre,Stas,5,10
-Zoé,Varin,6,10
-Thibaut,Verron,5 evening,10 afternoon
+Sébastien,Labbé,6 morning,11 morning,maison
+Clement,Legrand-Duchesne,6,10,gite
+Antoine,Leudière,5,10,maison
+Marc,Mezzarobba,6 afternoon,10 afternoon,gite
+Thierry,Monteil,?,?,maison
+Joseph,Musleh,5 afternoon,10 afternoon?,maison
+Raphaël,Pages,6 morning,10 afternoon,gite
+David,Roe,6 afternoon,10 or 11,maison
+Julian,Rüth,6,10 or 11,maison
+Elisa,Sasso,5,10,maison
+Pierre,Stas,5,10,maison
+Zoé,Varin,6,10,gite
+Thibaut,Verron,5 evening,10 afternoon,maison
