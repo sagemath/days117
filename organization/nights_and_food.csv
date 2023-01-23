@@ -1,5 +1,5 @@
 prénom,nom,arrivée,départ,lieu
-Doriann,Albertin,6,9,gite
+Doriann,Albertin,6 morning,9 afternoon,gite
 Felipe,Arbulú,5 afternoon,10 afternoon,gite
 Bill,Allombert,5 or 6,7,maison
 David,Ayotte,5,10 ou 11,maison
@@ -7,26 +7,26 @@ Sahar,Bashan,5 afternoon,10 afternoon,maison
 Paul,Bastide,6 morning,10 afternoon,gite
 Alex,Best,5 afternoon,11 morning,maison
 Pierre,Bonnet,6,10,gite
-Ariane,Carrance,5,10,maison
+Ariane,Carrance,5 afternoon,10 afternoon,maison
 Xavier,Caruso,5 afternoon,11 morning,maison
 Frédéric,Chapoton,5 afternoon,10 afternoon,gite
 Vincent,Delecroix,5 afternoon,11 morning,maison
 Nicolas,Delbovier,5,10,maison
 Charles,Fougeron,5,10,maison
 Kai,Fu,6,10,gite
-France,Gheeraert,5,11,maison
+France,Gheeraert,5 afternoon,10 afternoon,maison
 Éric,Gourgoulhon,5 afternoon,9 morning,gite
 Haojie,Hong,6 morning,10 evening,gite
 Sébastien,Labbé,6 morning,11 morning,maison
 Clement,Legrand-Duchesne,6,10,gite
-Antoine,Leudière,5,10,maison
+Antoine,Leudière,5 afternoon,10 afternoon,maison
 Marc,Mezzarobba,6 afternoon,10 afternoon,gite
 Thierry,Monteil,?,?,maison
 Joseph,Musleh,5 afternoon,10 afternoon?,maison
 Raphaël,Pages,6 morning,10 afternoon,gite
 David,Roe,6 afternoon,10 or 11,maison
 Julian,Rüth,6,10 or 11,maison
-Elisa,Sasso,5,10,maison
+Elisa,Sasso,5 afternoon,10 afternoon,maison
 Pierre,Stas,5,10,maison
 Zoé,Varin,6,10,gite
 Thibaut,Verron,5 evening,10 afternoon,maison
