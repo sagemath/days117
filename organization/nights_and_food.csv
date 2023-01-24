@@ -1,4 +1,4 @@
-prénom,nom,arrivée,départ,lieu
+first name,last name,arrival,departure,where
 Doriann,Albertin,6 morning,9 afternoon,gite
 Felipe,Arbulú,5 afternoon,10 afternoon,gite
 Bill,Allombert,5 or 6,7,maison
@@ -22,7 +22,7 @@ Clement,Legrand-Duchesne,6,10,gite
 Antoine,Leudière,5 afternoon,10 afternoon,maison
 Marc,Mezzarobba,6 afternoon,10 afternoon,gite
 Thierry,Monteil,?,?,maison
-Joseph,Musleh,5 afternoon,10 afternoon?,maison
+Joseph,Musleh,5 afternoon,10 afternoon,maison
 Raphaël,Pages,6 morning,10 afternoon,gite
 David,Roe,6 afternoon,10 or 11,maison
 Julian,Rüth,6,10 or 11,maison
