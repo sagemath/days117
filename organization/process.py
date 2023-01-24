@@ -49,4 +49,19 @@ def write_meals():
         meals.write('sam 10 petit déj\n')
         meals.write(','.join(map(str, meal_numbers)))
 
+def write_mdn():
+    with open('nights_and_food.csv') as csvfile:
+        data = csv.DictReader(csvfile, delimiter=',')
+        with open('output/logement_mdn.csv', 'w') as mdn:
+            mdn.write('first name, last name, arrival, departure\n')
+            for row in data:
+                first_name = row['first name']
+                last_name = row['last name']
+                arrival = row['arrival']
+                departure = row['departure']
+                where = row['where']
+                if where == 'maison':
+                    mdn.write('{},{},{},{}\n'.format(first_name, last_name, arrival.split()[0], departure.split()[0]))
+
 write_meals()
+write_mdn()
