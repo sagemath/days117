@@ -79,6 +79,12 @@ def write_meals():
 
                 csv_row = [row['first name'], row['last name']]
                 csv_row += [int(start <= x < end) for x in range(17)]
+
+                if first_name == 'Nicolas' and last_name == 'Delbovier':
+                    # jeune intermittant
+                    csv_row[3::3] = [0] * 6
+                    print('nico')
+
                 csv_rows.append(csv_row)
 
         for first_name, last_name, presence in guests:
@@ -86,7 +92,6 @@ def write_meals():
             for i in presence:
                 csv_row[2 + i] = 1
             csv_rows.append(csv_row)
-
 
         meal_numbers = [0] * 17
         for csv_row in csv_rows:
