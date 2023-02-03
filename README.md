@@ -16,4 +16,4 @@ Organization of sage days 117 in le Teich (February 2023).
 * 10:30 : participant presentations (who they are and what they want to work on)
 * 12:00 or 12:30 : meal
 * 14:00 : tutorials + working group in parallel
-* 17:30 : Matthias Köppe talk on "SageMath development on github"
+* 17:30 : Matthias Köppe remote talk on "SageMath development on github" on [BigBlueButton](https://webconf.u-bordeaux.fr/b/vin-g33-6qy)
