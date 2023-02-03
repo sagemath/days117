@@ -1,13 +1,13 @@
 
-# 5 evening    -> 0
-# 6 breakfast  -> 1
-# 6 lunch      -> 2
-# 6 dinner     -> 3
-# 7            -> 4, 5, 6
-# 8            -> 7, 8, 9
-# 9            -> 10, 11, 12
-# 10           -> 13, 14, 15
-# 11 breakfast -> 16
+# Sun 5 evening    -> 0
+# Mon 6 breakfast  -> 1
+# Mon 6 lunch      -> 2
+# Mon 6 dinner     -> 3
+# Tue 7            -> 4, 5, 6
+# Wed 8            -> 7, 8, 9
+# Thu 9            -> 10, 11, 12
+# Fri 10           -> 13, 14, 15
+# Sat 11 breakfast -> 16
 
 import csv
 import warnings
@@ -84,6 +84,16 @@ def write_meals():
                     # jeune intermittant
                     csv_row[3::3] = [0] * 6
                     print('nico')
+
+                if first_name == 'Zoé' and last_name == 'Varin':
+                    # Zoé Varin ne sera pas la au petit dej et au repas du midi le mardi
+                    print('zoé')
+                    csv_row[2 + 4] = csv_row[2 + 5] = 0
+
+                if first_name == 'Clément' and last_name == 'Legrand-Duchesne':
+                    # Clément Legrand-Duchesne ne sera pas le au petit dej et au repas du midi le mercredi.
+                    print('clément')
+                    csv_row[2 + 7] = csv_row[2 + 8] = 0
 
                 csv_rows.append(csv_row)
 
