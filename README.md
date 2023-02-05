@@ -36,6 +36,12 @@ Organization of sage days 117 in le Teich (February 2023).
 
 ## Schedule
 
+### All days
+
+* 08:00-09:00 : breakfast
+* 12:00-13:00 : lunch
+* 19:30-20:30 : dinner
+
 ### Monday 6
 
 High tides : 05:54 and 18:13
