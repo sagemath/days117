@@ -14,8 +14,8 @@ Canard
 Passereaux
 
     2.0. Martin-Pécheur: Nicolas Delbovier, Pierre Stas
-    2.2. Rossignol: Sahar Bashan
-    2.3. Rousserole: Ariane Carrance
+    2.2. Rossignol: Kai Fu, Haojie Hong
+    2.3. Rousserole: Ariane Carrance, Sahar Bashan
     2.4. Loriot d'Europe: Germain Poullot
     2.5. Bergeronnette printanière: Thibaut Verron
     2.6. Panure à moustache: Bill Alombert, Julian Rüth
