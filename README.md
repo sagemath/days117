@@ -39,6 +39,9 @@ High tides : 06:29 and 18:49
 
 High tides : 07:03 and 19:56
 
+* 10:30-12:00 Write clean, efficient, documented and beautiful code (by Julian)
+* 14:00-15:30 Graphs in SageMath (by Vincent)
+
 ### Thursday 9
 
 High tides : 07:36 and 19:56
