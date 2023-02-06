@@ -7,32 +7,7 @@ Organization of sage days 117 in le Teich (February 2023).
 * double check the spreadsheet [meals.csv](https://github.com/sagemath/days117/blob/master/organization/output/meals.csv).
 * write down your project at https://codimd.math.cnrs.fr/fXNTId-5Q06e2RVvu31g4w
 * create an account on https://sagemath.zulipchat.com/
-
-
-## Rooms
-
-### Canard
-
-* **1.0. Colvert**: Xavier Caruso
-* **1.1. Sarcelle**: David Ayotte, Antoine Leudière      
-* **1.2. Tadorne**: Elisa Sasso
-* **1.3. Pilet**: David Roe, Julian Rüth       
-* **1.4. Souchet**: Joseph Musleh 
-* **1.5. Siffleur**: France Gheeraert
-* **1.6. Nourillon**: Alex Best 
-* **1.7. Nilouin**: Sébastien Labbé
-* **1.8. Chipeau**: Vincent Delecroix
-* **1.9. Garrot**: Charles Fougeron
-
-### Passereaux
-
-* **2.0. Martin-Pécheur**: Nicolas Delbovier, Pierre Stas
-* **2.2. Rossignol**: Sahar Bashan
-* **2.3. Rousserole**: Ariane Carrance
-* **2.4. Loriot d'Europe**: Germain Poullot
-* **2.5. Bergeronnette printanière**: Thibaut Verron
-* **2.6. Panure à moustache**: Bill Alombert, Thierry Monteil
-
+* check where you stay in Maison de la nature: [organization/rooms.md](https://github.com/sagemath/days117/blob/master/organization/rooms.md)
 
 ## Schedule
 
