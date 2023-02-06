@@ -49,12 +49,16 @@ High tides : 05:54 and 18:13
 * 09:00-10:30 : install party + refine participant projects + make schedule for tutorials
 * 10:30 : participant presentations (who they are and what they want to work on)
 * 12:00 or 12:30 : meal
-* 14:00 : tutorials + working group in parallel
-* 17:30 : Matthias Köppe remote talk on "SageMath development on github" on [BigBlueButton](https://webconf.u-bordeaux.fr/b/vin-g33-6qy)
+* 14:00-15:30 : Introduction to SageMath + adapting your workflow (by Sébastien)
+* 16:00-17:00 : Basic Python and SageMath (by Vincent)
+* 17:30 : remote talk on "SageMath development on github" on [BigBlueButton](https://webconf.u-bordeaux.fr/b/vin-g33-6qy) (by Matthias Köppe)
 
 ### Tuesday 7
 
 High tides : 06:29 and 18:49
+
+* 09:00-10:30 Sharing code and writing Python libraries (by Sébastien)
+* 16:00-17:30 Combinatorics in SageMath (by Frédéric)
 
 ### Wednesday 8
 
