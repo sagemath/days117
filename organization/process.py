@@ -14,7 +14,9 @@ import warnings
 
 # additional meals
 guests = [
-    ('Elise', 'Goujard', [5])
+    ('Elise', 'Goujard', [5]),
+    ('Baptiste', 'Louf', [8]),
+    ('Mireille', 'Bousquet-Mélou', [11])
     ]
 
 def date_index(entry, end=False):
